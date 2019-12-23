@@ -16,7 +16,7 @@ As their data sources, dictionaries can use [{{ CH }} internal dictionaries](htt
 * Check whether one region is part of another.
 * Get a chain of parent regions.
 
-To learn more about internal dictionaries, see the [{{ CH }} documentation](https://clickhouse.ya ndex/docs/ru/query_language/dicts/internal_dicts/).
+To learn more about internal dictionaries, see the [{{ CH }} documentation](https://clickhouse.yandex/docs/ru/query_language/dicts/internal_dicts/).
 
 ## External dictionaries {#external-dicts}
 
